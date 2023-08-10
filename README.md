@@ -1,4 +1,4 @@
-# p_arraivals_one_layer
+#P arravials on one-lyare medium
 Seismic Wave Propagation Simulation
 
 
